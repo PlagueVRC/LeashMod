@@ -3,9 +3,9 @@ Ever wanted a PROPER leash in VRChat? Here it finally is.
 
 With the combination of a mod and avatar objects, you can have a FULLY dynamic, visible to all and functional leash in VRChat, being pulled back, being able to be yanked by your master's hand (or vice versa), being able to be locked somewhere in the world and much, much more!
 
-Invite To Leash Mod Intermission: [**Click Here**](https://discord.gg/PcSsUE5vFE)
+# Invite To Leash Mod Intermission Discord Server: [**Click Here**](https://discord.gg/PcSsUE5vFE)
 
-Note; this is a invite only mod. The above invite is to the intermission server, at which you can then DM me on discord for an invite. Note there's no 100% guarantee, but it's likely.
+**Note; this is a invite only mod**. The above invite is to the intermission server, at which you can then DM me on discord for an invite. Note there's no 100% guarantee, but it's likely.
 
 > No, this is nothing like past leash mod's apart from the theory. You'll come to learn why in time. - From being visible to all players, the hand being the anchor meaning the master could yank you back by hand, the master having remote-control of your leash length, etc, being able to use a world constraint for your master to pull you to them like the leash actually exists and even leave the leash somewhere in the world to lock you there until they return and yet more.
 
